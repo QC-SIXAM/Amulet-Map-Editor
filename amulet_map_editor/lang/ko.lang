@@ -1,33 +1,33 @@
 shared.check_console=자세한 내용은 콘솔을 확인하십시오.
 
-app.world_still_used=월드는 여전히 사용되고 있습니다. 먼저 닫아주세요
-app.browser_open_tooltip=클릭하면 브라우저에서 페이지가 열립니다
+app.world_still_used=월드가 이미 사용되고 있습니다. 닫아주세요
+app.browser_open_tooltip=클릭하면 브라우저에서 도움말이 열립니다
 
 world.java_platform=자바
 world.bedrock_platform=베드락
-world.close_world=클로즈 월드
+world.close_world=월드 닫기
 
 menu_bar.file.menu_name=&파일
-menu_bar.file.open_world=오픈 월드
-menu_bar.file.close_world=클로즈 월드
-menu_bar.file.quit=퀴트
+menu_bar.file.open_world=월드 열기
+menu_bar.file.close_world=월드 닫기
+menu_bar.file.quit=나가기
 menu_bar.options.menu_name=&옵션
-menu_bar.help.menu_name=&돕다
+menu_bar.help.menu_name=&도움말
 
 main_menu.tab_name=메인 메뉴
 main_menu.open_world=오픈 월드
-main_menu.help=돕다
-main_menu.discord=암울엗 디스코드
+main_menu.help=도움말
+main_menu.discord=아뮬렛 디스코드
 
-update_check.newer_version_released=암울엗의 새 버전이 출시되었습니다!
+update_check.newer_version_released=아뮬렛의 새 버전이 출시되었습니다!
 update_check.new_version=새로운 버전:
 update_check.current_version=버전:
 update_check.update=다운로드 페이지로 이동
-update_check.ok=네
+update_check.ok=예
 
 select_world.title=월드 셀렉트
-select_world.open_world_warning=암울엗에서 열기 전에 게임 및 기타 도구에서 세계를 닫습니다.
-select_world.open_world_button=다른 월드을 열어라
+select_world.open_world_warning=아뮬렛에서 열기 전에 게임 및 기타 도구에서 월드를 닫아주세요.
+select_world.open_world_button=다른 월드을 열기
 select_world.open_world_dialogue=마인크래프트 월드 디렉토리 선택
 select_world.select_directory_failed=디렉토리를 열지 못했습니다!
 select_world.recent_worlds=최근에 열린 월드
@@ -38,7 +38,7 @@ program_about.tab_name=정보
 program_about.currently_opened_world=현재 열린 월드:
 program_about.choose_from_options=왼쪽의 옵션에서 수행할 작업을 선택합니다.\n언제든지 이들 사이를 전환할 수 있습니다.
 
-program_convert.tab_name=컨버트
+program_convert.tab_name=변환
 program_convert.convert_button=컨버트
 program_convert.input_world=입력 월드:
 program_convert.output_world=출력 월드:
@@ -52,36 +52,36 @@ program_convert.menu_bar.help.user_guide=사용자 가이드(온라인)
 program_3d_edit.tab_name=3D 편집기
 
 program_3d_edit.canvas.please_wait=렌더러가 로드되는 동안 기다려 주십시오.
-program_3d_edit.canvas.downloading_bedrock_vanilla_resource_pack=베드락 바닐라 리소스 팩 다운로드
-program_3d_edit.canvas.downloading_java_vanilla_resource_pack=자바 바닐라 리소스 팩 다운로드
+program_3d_edit.canvas.downloading_bedrock_vanilla_resource_pack=베드락 기본 리소스 팩 다운로드
+program_3d_edit.canvas.downloading_java_vanilla_resource_pack=자바 기본 리소스 팩 다운로드
 program_3d_edit.canvas.java_rp_failed=최신 자바 리소스 팩을 다운로드하지 못했습니다.
-program_3d_edit.canvas.java_rp_failed_default=인터넷 연결을 확인하고 암울엗을 다시 시작하십시오.
+program_3d_edit.canvas.java_rp_failed_default=인터넷 연결을 확인하고 아뮬렛을 다시 시작하십시오.
 program_3d_edit.canvas.java_rp_failed_mac_certificates=인터넷에 액세스하기 위한 인증서가 설치되지 않았습니다.\n"Applications/Python 3.x"에 있는 "Install Certificates.command" 프로그램을 실행하십시오.
-program_3d_edit.canvas.loading_resource_packs=리소스 팩 로드
+program_3d_edit.canvas.loading_resource_packs=리소스 팩 불러오기
 program_3d_edit.canvas.creating_texture_atlas=텍스처 아틀라스 만들기
 program_3d_edit.canvas.setting_up_renderer=렌더러 설정
 
 program_3d_edit.menu_bar.file.save=저장
 program_3d_edit.menu_bar.edit.menu_name=&편집
 program_3d_edit.menu_bar.edit.undo=실행 취소
-program_3d_edit.menu_bar.edit.redo=다시 하다
+program_3d_edit.menu_bar.edit.redo=재 실행
 program_3d_edit.menu_bar.edit.cut=절단
 program_3d_edit.menu_bar.edit.copy=복사
-program_3d_edit.menu_bar.edit.paste=반죽
-program_3d_edit.menu_bar.edit.delete=블록 삭제
+program_3d_edit.menu_bar.edit.paste=붙여넣기
+program_3d_edit.menu_bar.edit.delete=삭제
 program_3d_edit.menu_bar.edit.goto=이동
 program_3d_edit.menu_bar.edit.select_all=모두 선택
-program_3d_edit.menu_bar.options.controls=통제 수단...
+program_3d_edit.menu_bar.options.controls=컨트롤...
 program_3d_edit.menu_bar.options.options=옵션...
-program_3d_edit.menu_bar.help.user_guide=사용자 가이드(온라인)
+program_3d_edit.menu_bar.help.user_guide=사용자 가이드 (온라인)
 
 program_3d_edit.select_tool.delete_button=블록 삭제
 program_3d_edit.select_tool.delete_button_tooltip=선택한 영역의 블록을 삭제합니다.
 program_3d_edit.select_tool.copy_button=복사
 program_3d_edit.select_tool.copy_button_tooltip=선택한 영역을 복사하여 나중에 붙여넣습니다. 모든 월드와 차원에 붙여넣을 수 있습니다. 
 program_3d_edit.select_tool.cut_button=절단
-program_3d_edit.select_tool.cut_button_tooltip=선택한 영역을 복사하여 나중에 붙여넣고 삭제합니다. 모든 월드와와 차원에 붙여넣을 수 있습니다.
-program_3d_edit.select_tool.paste_button=붙여
+program_3d_edit.select_tool.cut_button_tooltip=선택한 영역을 복사하여 나중에 붙여넣고 삭제합니다. 모든 월드와 차원에 붙여넣을 수 있습니다.
+program_3d_edit.select_tool.paste_button=붙여넣기
 program_3d_edit.select_tool.paste_button_tooltip=이전에 복사하거나 잘라낸 영역을 월드에 붙여넣습니다.
 program_3d_edit.select_tool.scroll_point_x1=x1
 program_3d_edit.select_tool.scroll_point_y1=y1
@@ -89,12 +89,12 @@ program_3d_edit.select_tool.scroll_point_z1=z1
 program_3d_edit.select_tool.scroll_point_x2=x2
 program_3d_edit.select_tool.scroll_point_y2=y2
 program_3d_edit.select_tool.scroll_point_z2=z2
-program_3d_edit.select_tool.scroll_point_x1_tooltip=활성 상자의 녹색 모서리의 x 좌표를 설정합니다. 마우스를 가져가면서 숫자를 입력하거나 휠을 스크롤합니다.
-program_3d_edit.select_tool.scroll_point_y1_tooltip=활성 상자의 녹색 모서리의 y 좌표를 설정합니다. 마우스를 가져가면서 숫자를 입력하거나 휠을 스크롤합니다.
-program_3d_edit.select_tool.scroll_point_z1_tooltip=활성 상자의 녹색 모서리의 z 좌표를 설정합니다. 마우스를 가져가면서 숫자를 입력하거나 휠을 스크롤합니다.
-program_3d_edit.select_tool.scroll_point_x2_tooltip=활성 상자의 파란색 모서리의 x 좌표를 설정합니다. 마우스를 가져가면서 숫자를 입력하거나 휠을 스크롤합니다.
-program_3d_edit.select_tool.scroll_point_y2_tooltip=활성 상자의 파란색 모서리의 y 좌표를 설정합니다. 마우스를 가져가면서 숫자를 입력하거나 휠을 스크롤합니다.
-program_3d_edit.select_tool.scroll_point_z2_tooltip=활성 상자의 파란색 모서리의 z 좌표를 설정합니다. 마우스를 가져가면서 숫자를 입력하거나 휠을 스크롤합니다.
+program_3d_edit.select_tool.scroll_point_x1_tooltip=활성 상자의 녹색 모서리의 x 좌표를 설정합니다. 숫자를 입력하거나 휠을 스크롤합니다.
+program_3d_edit.select_tool.scroll_point_y1_tooltip=활성 상자의 녹색 모서리의 y 좌표를 설정합니다. 숫자를 입력하거나 휠을 스크롤합니다.
+program_3d_edit.select_tool.scroll_point_z1_tooltip=활성 상자의 녹색 모서리의 z 좌표를 설정합니다. 숫자를 입력하거나 휠을 스크롤합니다.
+program_3d_edit.select_tool.scroll_point_x2_tooltip=활성 상자의 파란색 모서리의 x 좌표를 설정합니다. 숫자를 입력하거나 휠을 스크롤합니다.
+program_3d_edit.select_tool.scroll_point_y2_tooltip=활성 상자의 파란색 모서리의 y 좌표를 설정합니다. 숫자를 입력하거나 휠을 스크롤합니다.
+program_3d_edit.select_tool.scroll_point_z2_tooltip=활성 상자의 파란색 모서리의 z 좌표를 설정합니다. 숫자를 입력하거나 휠을 스크롤합니다.
 program_3d_edit.select_tool.box_size_selector_fstring=dx={x},dy={y},dz={z}
 program_3d_edit.select_tool.box_size_selector_tooltip=마인크래프트 볼륨 선택기 표기법을 사용하는 활성 선택의 모양입니다.
 program_3d_edit.select_tool.box_size_tooltip=활성 선택 상자의 블록 크기입니다.
